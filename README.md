@@ -1,4 +1,8 @@
-# 💫 Hi 👋, I'm Gaurav
+# 💫 Hi 👋, I'm <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=24&duration=2200&pause=700&color=0D0D0D&center=true&vCenter=true&width=700&lines=GAURAV+%7C+GAURAV;GAURAV+%7C+GAURAV;GAURAV+%7C+GAURAV;GAURAV+%7C+GAURAV"/>
+
+</div>
 **A passionate VLSI DESIGN Engineer || Digital design  || Risc V ALU expert**
 
 Email Me 👉 ✉️ **gauravparjapti4@gmail.com** For Collaboration/Project or Anything Else. 😊😊
