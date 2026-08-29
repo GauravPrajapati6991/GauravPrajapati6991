@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=24&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=GAURAV+%7C+GAURAV;GAURAV+%7C+GAURAV;GAURAV+%7C+GAURAV;GAURAV+%7C+GAURAV"/>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=24&duration=2200&pause=700&color=16A34A&center=true&vCenter=true&width=700&lines=GAURAV+%7C+GAURAV;GAURAV+%7C+GAURAV;GAURAV+%7C+GAURAV;GAURAV+%7C+GAURAV"/>
 
 </div>
 **A passionate VLSI DESIGN Engineer || Digital design  || Risc V ALU expert**
