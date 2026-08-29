@@ -7,13 +7,11 @@
 
 Email Me 👉 ✉️ **gauravparjapti4@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Dynamically ALU allocation 
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:** Dynamically ALU allocation FOR RISC V  
+- 🌱 **I’m currently learning:** RTL SYNTHESIS & PHYSICAL DESIGN
 - 💬 **Ask me about:** Collaboration, Design and assistance 
 - 📫 **How to reach me:** gauravparjapti4@gmail.com
-- 😄 **Pronouns:** Gaurav Sir
+- 😄 **Pronouns:** Gaurav
 - ⚡ **Fun fact:** I Love Electronics and Electronics Loves Me
 ⚡ About Me<br><br>Breaking bits ECE engineer(ITG) | Mtech comm & Vlsi (IITG )<br><br>🧠 Designing and exploring RISC-V Architectures<br>➕ ALU Design Specialist — arithmetic, logic & datapath design<br>🔧 Building VLSI & RTL Designs<br>⚡ Implementing QC-LDPC Decoders on FPGAs<br>📡 Exploring Digital Communication & Signal Processing<br>🛠️ Turning Algorithms → RTL → FPGA → Hardware<br>«Don't just writing codes — Research  and make bits do things. ⚡»<br>Contact me  : gauravparjapti4@gmail.com
 
