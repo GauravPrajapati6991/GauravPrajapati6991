@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="510" viewBox="0 0 900 510" role="img" aria-labelledby="title desc">
+  <title id="title">Mock GitHub Statistics</title>
+  <desc id="desc">A learning-only sample dashboard with contribution bars, language usage, and a streak counter.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 28px Arial, sans-serif; fill: #f0f6fc; }
+      .label { font: 600 16px Arial, sans-serif; fill: #c9d1d9; }
+      .small { font: 14px Arial, sans-serif; fill: #8b949e; }
+      .number { font: 700 27px Arial, sans-serif; fill: #f0f6fc; }
+      .tiny { font: 12px Arial, sans-serif; fill: #8b949e; }
+    </style>
+  </defs>
+  <rect width="900" height="510" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="508" rx="17" fill="none" stroke="#30363d"/>
+  <text x="42" y="55" class="title">Mock GitHub Stats</text>
+  <text x="42" y="82" class="small">Learning-only sample • Not live GitHub analytics</text>
+
+  <rect x="42" y="112" width="250" height="105" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="64" y="145" class="label">Total commits</text>
+  <text x="64" y="187" class="number">1,248</text>
+  <circle cx="257" cy="158" r="20" fill="#238636" opacity=".22"/><path d="M247 158h20M257 148v20" stroke="#3fb950" stroke-width="3" stroke-linecap="round"/>
+
+  <rect x="325" y="112" width="250" height="105" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="347" y="145" class="label">Current streak</text>
+  <text x="347" y="187" class="number">87 days</text>
+  <path d="M541 181c-22-10-18-37 0-42-1 14 11 13 8 28 13-8 22 9 9 21-5 5-15 7-24-7z" fill="#f0883e"/>
+
+  <rect x="608" y="112" width="250" height="105" rx="12" fill="#161b22" stroke="#30363d"/>
+  <text x="630" y="145" class="label">Public projects</text>
+  <text x="630" y="187" class="number">12</text>
+  <path d="M818 143h18v13h-18zM814 158h26v27h-26z" fill="none" stroke="#58a6ff" stroke-width="3" stroke-linejoin="round"/>
+
+  <text x="42" y="260" class="label">Weekly contribution activity</text>
+  <line x1="42" y1="424" x2="535" y2="424" stroke="#30363d"/>
+  <g fill="#2ea043">
+    <rect x="67" y="338" width="38" height="86" rx="5"/><rect x="133" y="286" width="38" height="138" rx="5"/>
+    <rect x="199" y="318" width="38" height="106" rx="5"/><rect x="265" y="253" width="38" height="171" rx="5"/>
+    <rect x="331" y="302" width="38" height="122" rx="5"/><rect x="397" y="271" width="38" height="153" rx="5"/>
+    <rect x="463" y="328" width="38" height="96" rx="5"/>
+  </g>
+  <g class="tiny" text-anchor="middle"><text x="86" y="448">Mon</text><text x="152" y="448">Tue</text><text x="218" y="448">Wed</text><text x="284" y="448">Thu</text><text x="350" y="448">Fri</text><text x="416" y="448">Sat</text><text x="482" y="448">Sun</text></g>
+
+  <text x="596" y="260" class="label">Language share</text>
+  <text x="596" y="292" class="small">Verilog</text><rect x="690" y="278" width="150" height="13" rx="6" fill="#30363d"/><rect x="690" y="278" width="100" height="13" rx="6" fill="#8b5cf6"/><text x="850" y="291" class="tiny">67%</text>
+  <text x="596" y="330" class="small">Python</text><rect x="690" y="316" width="150" height="13" rx="6" fill="#30363d"/><rect x="690" y="316" width="53" height="13" rx="6" fill="#3572A5"/><text x="850" y="329" class="tiny">35%</text>
+  <text x="596" y="368" class="small">C++</text><rect x="690" y="354" width="150" height="13" rx="6" fill="#30363d"/><rect x="690" y="354" width="33" height="13" rx="6" fill="#f34b7d"/><text x="850" y="367" class="tiny">22%</text>
+  <text x="596" y="406" class="small">HTML</text><rect x="690" y="392" width="150" height="13" rx="6" fill="#30363d"/><rect x="690" y="392" width="20" height="13" rx="6" fill="#e34c26"/><text x="850" y="405" class="tiny">13%</text>
+</svg>
