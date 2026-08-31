@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **gauravparjapti4@gmail.com** For Collaboration/Project or 
 - 📫 **How to reach me:** gauravparjapti4@gmail.com
 - 😄 **Pronouns:** Gaurav
 - ⚡ **Fun fact:** I Love Electronics and Electronics Loves Me
-⚡ About Me<br><br>Breaking bits ECE engineer(ITG) | Mtech comm & Vlsi (IITG )<br><br>🧠 Designing and exploring RISC-V Architectures<br>➕ ALU Design Specialist — arithmetic, logic & datapath design<br>🔧 Building VLSI & RTL Designs<br>⚡ Implementing QC-LDPC Decoders on FPGAs<br>📡 Exploring Digital Communication & Signal Processing<br>🛠️ Turning Algorithms → RTL → FPGA → Hardware<br>«Don't just writing codes — Research  and make bits do things. ⚡»<br>Contact me  : gauravparjapti4@gmail.com
+⚡ About Me<br><br>Breaking bits ECE engineer(Uttarakhand technical university) | Mtech comm & Vlsi (IIT-Guwahati )<br><br>🧠 Designing and exploring RISC-V Architectures<br>➕ ALU Design Specialist — arithmetic, logic & datapath design<br>🔧 Building VLSI & RTL Designs<br>⚡ Implementing QC-LDPC Decoders on FPGAs<br>📡 Exploring Digital Communication & Signal Processing<br>🛠️ Turning Algorithms → RTL → FPGA → Hardware<br>«Don't just writing codes — Research  and make bits do things. ⚡»<br>Contact me  : gauravparjapti4@gmail.com
 
 
 ## 🌐 Socials:
